@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Light" />
+
+    <style name="CustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:background">#FFFFFF</item>
+        <item name="android:textColor">#8F7676</item>
+    </style>
+    <!--parent="@android:style/Theme.Dialog-->
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Spin_And_Earn"
+            android:icon="@drawable/ic_spin"
+            android:title="@string/menu_Spin_And_Earn" />
+        <item
+            android:id="@+id/nav_How_to_Work"
+            android:icon="@drawable/how_to_work"
+            android:title="@string/menu_How_to_Work" />
+        <item
+            android:id="@+id/nav_Redeem"
+            android:icon="@drawable/redeem"
+            android:title="@string/menu_Redeem" />
+        <item
+            android:id="@+id/nav_Refer_And_Earn"
+            android:icon="@drawable/invite_earn"
+            android:title="@string/menu_Refer_And_Earn" />
+        <item
+            android:id="@+id/nav_Rate"
+            android:icon="@drawable/rate_us"
+            android:title="@string/menu_Rate" />
+        <item
+            android:id="@+id/nav_Telegram_Channel"
+            android:icon="@drawable/telegram_channel"
+            android:title="@string/menu_Telegram_Channel" />
+        <item
+            android:id="@+id/nav_Privacy_Policy"
+            android:icon="@drawable/privacy_policy"
+            android:title="@string/menu_Privacy_Policy" />
+        <item
+            android:id="@+id/nav_signout"
+            android:icon="@drawable/signout"
+            android:title="@string/menu_signout" />
+    </group>
+</menu>

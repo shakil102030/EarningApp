@@ -1,0 +1,3 @@
+include ':unityads'
+include ':app'
+rootProject.name = "EarningApp"

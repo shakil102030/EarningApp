@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">EarningApp</string>
+    <string name="splash_text">Make Money</string>
+    <string name="video_text">Watch Ads</string>
+    <string name="user_id">#1</string>
+    <string name="user_name">Tamim</string>
+    <string name="user_points">5000</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="user_email">example@gmail.com</string>
+    <string name="spin_and_earn">Spin And Earn</string>
+    <string name="math_quiz">Math Quiz</string>
+    <string name="watch_video">Watch Video</string>
+    <string name="refer_and_earn">Refer And Earn</string>
+    <string name="daily_checking">Daily Checking</string>
+
+    <string name="menu_Spin_And_Earn">Spin And Earn</string>
+    <string name="menu_How_to_Work">How to Work</string>
+    <string name="menu_Redeem">Redeem</string>
+    <string name="menu_Refer_And_Earn">Refer And Earn</string>
+    <string name="menu_Rate">Rate</string>
+    <string name="menu_Telegram_Channel">Telegram Channel</string>
+    <string name="menu_Privacy_Policy">Privacy Policy</string>
+    <string name="menu_signout">Signout</string>
+    <string name="title_home">Home</string>
+    <string name="title_redeem">Redeem</string>
+    <string name="title_about_us">About Us</string>
+    <string name="title_users_board">Users Board</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+
+
+
+</resources>
